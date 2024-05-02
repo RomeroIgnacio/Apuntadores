@@ -8,7 +8,7 @@ Entregar en un documento .pdf con el nombre siguiendo el formato
 apellidoPaterno_apellidoMaterno_5
 
 ## Captura de la salida de cada una de los programas
-![Alt Captura de Pantalla](Capturas/Captura.png)
+![Alt Captura de Pantalla](capturas/Captura.png)
 
 ## Documento a entregar
 :paperclip: ![Alt Documento adjunto de la actividad](Romero_Brambila_5.pdf)
